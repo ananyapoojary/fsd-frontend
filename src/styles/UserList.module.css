@@ -1,0 +1,13 @@
+.userList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .userItem {
+    background-color: #f9f9f9;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
